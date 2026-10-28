@@ -1,0 +1,94 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Profile 1",
+      "replace_ids": [
+        654808887,
+        2108482005,
+        14147881792,
+        135908632589654,
+        84214501374682,
+        10196550937,
+        12261809766
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_bk.png"
+    },
+    {
+      "name": "Profile 2",
+      "replace_ids": [
+        654809167,
+        2108545280,
+        10196550667,
+        14147882149,
+        103020541883227,
+        89972436184102,
+        12261813110
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_dn.png"
+    },
+    {
+      "name": "Profile 3",
+      "replace_ids": [
+        654808760,
+        14147882761,
+        12261809766,
+        135908632589654,
+        84214501374682,
+        10196550367,
+        2108482231
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_ft.png"
+    },
+    {
+      "name": "Profile 4",
+      "replace_ids": [
+        654809248,
+        14147883091,
+        135908632589654,
+        84214501374682,
+        2108482395,
+        12261809766,
+        10196550128
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_lf.png"
+    },
+    {
+      "name": "Profile 5",
+      "replace_ids": [
+        654809043,
+        14147882405,
+        135908632589654,
+        84214501374682,
+        2108482542,
+        12261809766,
+        10196549902
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_rt.png"
+    },
+    {
+      "name": "Profile 6",
+      "replace_ids": [
+        654808635,
+        14147881297,
+        72960281658487,
+        92138082970751,
+        2108482676,
+        10196567794,
+        12261813678
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_up.png"
+    }
+  ]
+}
